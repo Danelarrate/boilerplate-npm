@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author":"danel arrate",
+	"author": "danel arrate",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
